@@ -83,11 +83,6 @@ export const metadata: Metadata = {
     description: "24/7 emergency tree service. Tree trimming, removal, landscaping, stump grinding & storm cleanup for Humble, Spring, Baytown, The Woodlands, Dayton & Conroe. Free estimates.",
     images: ['/tree_pro/og-tree.jpg'],
   },
-  icons: {
-    icon: '/tree_pro/tree_logo.svg',
-    shortcut: '/tree_pro/tree_logo.svg',
-    apple: '/tree_pro/tree_logo.svg',
-  },
 };
 
 export default function RootLayout({
